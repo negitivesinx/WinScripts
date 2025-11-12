@@ -1,0 +1,2 @@
+powershell Set-SmbClientConfiguration -RequireSecuritySignature $false
+powershell Set-SmbClientConfiguration -EnableInsecureGuestLogons $true
